@@ -1,5 +1,18 @@
-header{
-    background: rgb(123, 184, 233);
+*{
+    box-sizing: border-box;
 }
-
-
+header{
+    background-color: cadetblue;
+}
+.section__hero{
+    background-color: red;
+}
+.content{
+    background-color: violet;
+}
+.sidebar{
+    background-color: pink;
+}
+footer{
+    background-color: grey;
+}
