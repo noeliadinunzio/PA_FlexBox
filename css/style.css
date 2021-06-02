@@ -1,18 +1,20 @@
 *{
     box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
 }
 header{
-    background-color: cadetblue;
+    background-color: #38A9F4;
 }
 .section__hero{
-    background-color: red;
+    background-color:#D22B1F;
 }
 .content{
-    background-color: violet;
+    background-color: #2C9A21;
 }
 .sidebar{
-    background-color: pink;
+    background-color:  #673AB7;
 }
 footer{
-    background-color: grey;
+    background-color: #616161;
 }
